@@ -1,5 +1,4 @@
 # SvelteKit and Supabase app
-## Demo, testing, prototyping, etc. Mainly for learning.
 
 ### Basic architecture
 
